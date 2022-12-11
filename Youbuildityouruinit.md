@@ -1,6 +1,6 @@
 # You build it, you ru{i}n it!
 
-> *"Apprend de ses erreurs l'agiliste sage, apprend des erreurs des autres l’agiliste plus sage."* ~ Yodafucius
+> *"De ses erreurs l'agiliste sage apprend, des erreurs des autres l’agiliste plus sage apprend."* ~ Yodafucius
 
 Les REX sur le déroulé des projets dits agiles sont souvent sans saveur.  
 Il y est décrit un cadre idyllique rappelant la petite maison dans la prairie.  
